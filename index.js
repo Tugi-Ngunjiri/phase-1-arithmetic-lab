@@ -1,5 +1,4 @@
 "before all" , let = require("mocha");
-
  Hook in "{root}",0.1 * 0.1;
 //=> 0.010000000000000002
 
